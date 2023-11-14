@@ -1,17 +1,20 @@
 ---
-title: "About"
+title: "Maria Kuruvilla"
+about:
+  template: trestles
 ---
 
-is a 🐈 lover
+![](images/maria_kuruvilla_2022.JPG)
+
 
 ## Education
 
-University of California, Los Angeles \| Los Angeles, CA Ph.D. in Statistics \| Sept 2006 - June 2011
+University of Washington, Seattle \| Seattle, WA Ph.D. in Quantitative Ecology and Resource Management \| Sept 2018 - June 2024
 
-New York University \| New York, NY B.S in Actuarial Science \| Sept 2000 - May 2004
+Delhi University \| New Delhi, Delhi, B.Sc. in Physics (Honors) \| July 2012 - May 2015
 
-## Experience
+<!-- ## Experience -->
 
-Duke University \| Professor \| July 2011 - present
+<!-- Duke University \| Professor \| July 2011 - present -->
 
-Posit, PBC \| Developer Educator \| August 2006 - present
+<!-- Posit, PBC \| Developer Educator \| August 2006 - present -->

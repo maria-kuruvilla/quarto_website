@@ -1,0 +1,13 @@
+---
+title: "salmon"
+format: html
+editor: visual
+---
+
+say some things about salmon
+
+```{r}
+head(iris)
+```
+
+$x = y$
