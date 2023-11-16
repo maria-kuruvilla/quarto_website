@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://maria-kuruvilla.github.io/quarto_website/projects.html</loc>
-    <lastmod>2023-11-16T00:57:10.227Z</lastmod>
+    <lastmod>2023-11-16T23:05:08.512Z</lastmod>
   </url>
   <url>
     <loc>https://maria-kuruvilla.github.io/quarto_website/posts/salmon.html</loc>
-    <lastmod>2023-11-16T00:57:09.883Z</lastmod>
+    <lastmod>2023-11-16T23:05:08.144Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maria-kuruvilla.github.io/quarto_website/publications.html</loc>
+    <lastmod>2023-11-16T23:05:07.276Z</lastmod>
   </url>
   <url>
     <loc>https://maria-kuruvilla.github.io/quarto_website/blog.html</loc>
-    <lastmod>2023-11-16T00:57:09.231Z</lastmod>
+    <lastmod>2023-11-16T23:05:07.488Z</lastmod>
   </url>
   <url>
     <loc>https://maria-kuruvilla.github.io/quarto_website/index.html</loc>
-    <lastmod>2023-11-16T00:57:10.051Z</lastmod>
+    <lastmod>2023-11-16T23:05:08.336Z</lastmod>
   </url>
 </urlset>
