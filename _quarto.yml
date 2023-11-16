@@ -7,7 +7,9 @@ website:
     left:
       - index.qmd
       - projects.qmd
-      - blog.qmd
+      - publications.qmd
+      - photos.qmd
+      - teaching.qmd
       
 editor: visual
 
