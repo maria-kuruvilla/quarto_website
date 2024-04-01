@@ -4,12 +4,16 @@ project:
 website:
   title: Maria Kuruvilla
   navbar:
+    title: false
     left:
       - index.qmd
       - projects.qmd
       - publications.qmd
-      - photos.qmd
       - teaching.qmd
+      - photos.qmd
+    tools:
+      - icon: github
+        href: https://github.com/maria-kuruvilla
       
 editor: visual
 
